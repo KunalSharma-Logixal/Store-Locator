@@ -1,0 +1,10 @@
+{
+  "bulk_no": "ed2daeb1959e4ec19549d7bafc41d46c",
+  "total_rows": 15,
+  "successful_rows": 12,
+  "failed_rows": 3,
+  "duplicate_rows": 0,
+  "date": "2026-07-15T12:47:58.189460",
+  "processing_status": "Partially Failed",
+  "failed_rows_file": "failed_rows_ed2daeb1959e4ec19549d7bafc41d46c.csv"
+}

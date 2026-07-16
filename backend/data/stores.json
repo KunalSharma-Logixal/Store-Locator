@@ -1,0 +1,122 @@
+[
+  {
+    "tenant_id": "VFASHION",
+    "store_id": "STR001",
+    "name": "Mumbai Andheri Store",
+    "address": "Andheri East",
+    "city": "Mumbai",
+    "phone": "9876543210",
+    "latitude": 19.1136,
+    "longitude": 72.8697
+  },
+  {
+    "tenant_id": "VFASHION",
+    "store_id": "STR002",
+    "name": "Mumbai BKC Store",
+    "address": "Bandra Kurla Complex",
+    "city": "Mumbai",
+    "phone": "9876543211",
+    "latitude": 19.0677,
+    "longitude": 72.8691
+  },
+  {
+    "tenant_id": "VFASHION",
+    "store_id": "STR003",
+    "name": "Thane Viviana Store",
+    "address": "Viviana Mall",
+    "city": "Thane",
+    "phone": "9876543212",
+    "latitude": 19.208,
+    "longitude": 72.972
+  },
+  {
+    "tenant_id": "VFASHION",
+    "store_id": "STR004",
+    "name": "Navi Mumbai Store",
+    "address": "Vashi",
+    "city": "Navi Mumbai",
+    "phone": "9876543213",
+    "latitude": 19.076,
+    "longitude": 72.9986
+  },
+  {
+    "tenant_id": "VFASHION",
+    "store_id": "STR005",
+    "name": "Pune Hinjawadi Store",
+    "address": "Hinjawadi Phase 1",
+    "city": "Pune",
+    "phone": "9876543214",
+    "latitude": 18.5912,
+    "longitude": 73.7389
+  },
+  {
+    "tenant_id": "VFASHION",
+    "store_id": "STR006",
+    "name": "Nagpur Store",
+    "address": "Sitabuldi",
+    "city": "Nagpur",
+    "phone": "9876543215",
+    "latitude": 21.1458,
+    "longitude": 79.0882
+  },
+  {
+    "tenant_id": "VPRO",
+    "store_id": "STR007",
+    "name": "Delhi Connaught Place Store",
+    "address": "Connaught Place",
+    "city": "New Delhi",
+    "phone": "9876543216",
+    "latitude": 28.6315,
+    "longitude": 77.2167
+  },
+  {
+    "tenant_id": "VPRO",
+    "store_id": "STR008",
+    "name": "Noida Sector 18 Store",
+    "address": "Sector 18",
+    "city": "Noida",
+    "phone": "9876543217",
+    "latitude": 28.5706,
+    "longitude": 77.3272
+  },
+  {
+    "tenant_id": "VPRO",
+    "store_id": "STR009",
+    "name": "Gurugram Cyber Hub Store",
+    "address": "Cyber Hub",
+    "city": "Gurugram",
+    "phone": "9876543218",
+    "latitude": 28.4959,
+    "longitude": 77.089
+  },
+  {
+    "tenant_id": "VPRO",
+    "store_id": "STR010",
+    "name": "Bengaluru MG Road Store",
+    "address": "MG Road",
+    "city": "Bengaluru",
+    "phone": "9876543219",
+    "latitude": 12.9758,
+    "longitude": 77.6055
+  },
+  {
+    "tenant_id": "VPRO",
+    "store_id": "STR011",
+    "name": "Hyderabad Hitech City Store",
+    "address": "Hitech City",
+    "city": "Hyderabad",
+    "phone": "9876543220",
+    "latitude": 17.4435,
+    "longitude": 78.3772
+  },
+  {
+    "tenant_id": "VPRO",
+    "store_id": "STR012",
+    "name": "Chennai T Nagar Store",
+    "address": "T Nagar",
+    "city": "Chennai",
+    "phone": "9876543221",
+    "latitude": 13.0418,
+    "longitude": 80.2341
+  }
+]

@@ -1,0 +1,4 @@
+store_id,store_name,address,city,state,pincode,latitude,longitude,phone,email,tenant_id,Error
+STR013,Ahmedabad SG Highway Store,SG Highway,Ahmedabad,Gujarat,380054,23.0514,72.5185,9876543222,ahmedabad@store.com,BePRO,"Invalid Tenant ID: 'BePRO'. Must be one of VFASHION, VPRO."
+STR014,Jaipur MI Road Store,MI Road,Jaipur,Rajasthan,302001,26.9124,75.7873,9876543223,jaipur@store.com,BePRO,"Invalid Tenant ID: 'BePRO'. Must be one of VFASHION, VPRO."
+STR015,Kolkata Park Street Store,Park Street,Kolkata,West Bengal,700016,22.5522,88.352,9876543224,kolkata@store.com,BePRO,"Invalid Tenant ID: 'BePRO'. Must be one of VFASHION, VPRO."
