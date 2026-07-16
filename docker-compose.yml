@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: store-locator-backend
+    ports:
+      - "10000:8000"
+    volumes:
+      - store-locator-data:/app/backend/data
+    restart: always
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: store-locator-frontend
+    ports:
+      - "10080:80"
+    depends_on:
+      - backend
+    restart: always
+
+volumes:
+  store-locator-data:

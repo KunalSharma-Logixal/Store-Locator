@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: .
+    container_name: store-locator-frontend
+    ports:
+      - "10080:80"
+    restart: always
