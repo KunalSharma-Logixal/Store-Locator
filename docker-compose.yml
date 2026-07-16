@@ -2,16 +2,13 @@ services:
 
   backend:
     build:
-      context: ./backend
-      dockerfile: Dockerfile
+      context: .
+      dockerfile: backend/Dockerfile
 
     container_name: storelocator-backend
 
-    volumes:
-      - ./backend/data:/app/data
-
-    expose:
-      - "10000"
+    ports:
+      - "10000:8000"
 
     restart: unless-stopped
 
