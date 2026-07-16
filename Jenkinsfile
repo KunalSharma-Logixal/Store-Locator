@@ -2,7 +2,12 @@ pipeline {
 agent {
 label 'thinkpad-agent'
 }
-
+    
+options {
+    timestamps()
+    disableConcurrentBuilds()
+}
+    
 environment {
     APP_DIR = '/home/pranjal/apps/store-locator'
 }
