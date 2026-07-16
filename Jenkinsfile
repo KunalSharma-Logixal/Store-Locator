@@ -3,7 +3,6 @@ agent {
 label 'thinkpad-agent'
 }
 
-```
 environment {
     APP_DIR = '/home/pranjal/apps/store-locator'
 }
@@ -85,6 +84,6 @@ post {
         '''
     }
 }
-```
+
 
 }
